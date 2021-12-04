@@ -1,0 +1,18 @@
+{
+  "name": "simple-nft-project",
+  "description": "A simple project to learn more about solidity and NFTs.",
+  "version": "1.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.1",
+    "hardhat": "^2.7.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0"
+  }
+}
